@@ -1,2 +1,2 @@
 # Colors
-Game clicker for android made on Unity
+Clicker-game for android made on Unity
