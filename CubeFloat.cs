@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class CubeFloat : MonoBehaviour
-{
 
+{
     public float speed, tilt;
     public Vector3 target = new Vector3 (0, 2.2f, 3.88f);
 
