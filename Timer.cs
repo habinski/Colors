@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class Timer : MonoBehaviour
@@ -12,6 +12,7 @@ public class Timer : MonoBehaviour
     {
         lastCol = mCube.GetComponent<Renderer>().material.color;
     }
+
 
     void Update()
     {
@@ -32,9 +33,12 @@ public class Timer : MonoBehaviour
         }
     }
 
+
     void OnDestroy()
     {
         if (mCube)
             mCube.GetComponent<GameCntrl>().lose = true;
     }
 }
+
+
