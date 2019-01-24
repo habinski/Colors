@@ -3,7 +3,6 @@ using System.Collections;
 
 public class RightOne : MonoBehaviour
 {
-
     private GameObject mainCube;
 
     void Start()

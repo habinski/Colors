@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 
@@ -70,7 +70,7 @@ public class GameCntrl : MonoBehaviour
             bCol = 0.05f;
         }
 
-        // New colors for blocks
+        // Random colors for blocks
         rand = Random.Range(0, positions.Length);
         for (int i = 0; i < positions.Length; i++)
         {
