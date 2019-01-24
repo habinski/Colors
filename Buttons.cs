@@ -60,7 +60,7 @@ public class Buttons : MonoBehaviour
             case "Close":
                 Application.LoadLevel("main");
                 break;
-//#pragma warning restore CS0618 // Тип или член устарел
+//#pragma warning restore CS0618 // The type or member is deprecated
             case "Music":
                 if (PlayerPrefs.GetString("Music") != "no")
                 {

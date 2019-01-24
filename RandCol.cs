@@ -3,6 +3,9 @@ using System.Collections;
 
 public class RandCol : MonoBehaviour
 
+
+
+
 {
     public bool main = false, right = false;
 
