@@ -37,7 +37,7 @@ public class Buttons : MonoBehaviour
         switch (gameObject.name)
         {
             case "Play":
-//#pragma warning disable CS0618 // Тип или член устарел
+//#pragma warning disable CS0618 // The type or member is deprecated
                 Application.LoadLevel("play");
 
                 break;
