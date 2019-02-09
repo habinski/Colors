@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a654a9b01efcf4f438e768b97d41b457
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chakra Petch Light
+  fontNames:
+  - Chakra Petch Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 75785d0ad0882c0408757e4148b8b2f4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
